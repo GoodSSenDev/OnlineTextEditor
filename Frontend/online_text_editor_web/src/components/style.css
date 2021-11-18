@@ -1,0 +1,34 @@
+.navBar {
+    height: 55px;
+    margin: 10px;
+    display: flex;
+    background-color: #262626;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.verticalCenterFlex {
+    display: flex;
+    align-items: center;
+}
+
+.brand {
+    display: inline-block;
+    padding-right: 10px;
+    border-right: #E7E6E6 solid 2px;
+    padding-left: 10px;
+    margin-right: 10px;
+}
+
+.navButton {
+    margin-right: 10px;
+    display: inline-block;
+    background-color: #262626;
+    
+}
+
+h1,h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #E7E6E6;
+}
+
